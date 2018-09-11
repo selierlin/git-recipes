@@ -1,9 +1,5 @@
 # 什么是 Git
 
-> ✍️ [houkensjtu](https://github.com/houkensjtu) | [童仲毅](https://github.com/geeeeeeeeek)
->
-> ©️ 本文演绎自 Atlassian 编写的 [_What is Git_](https://www.atlassian.com/git/tutorials/what-is-git)。页面上所有内容采用知识共享-署名（[CC BY 2.5 AU](http://creativecommons.org/licenses/by/2.5/au/deed.zh)）许可协议。
-
 到目前为止，Git 是世界上使用最为广泛的现代化版本控制系统。Git 最初由 Linux 系统内核的作者 Linus Torvalds 在 2005 年开始开发，目前已经是一个持续维护的成熟开源项目。如今，大量软件项目依赖 Git 进行版本管理，其中既有开源软件，也有商业软件。Git 在很多操作系统和集成开发环境（IDE）上都表现良好。绝大多数软件开发者或多或少都使用过 Git。
 
 Git 是分布式版本管理（DVCS）的一种。CVS 和 Subversion（SVN） 等集中式的版本管理软件将完整的版本历史存放在同一个地方。而在 Git 中，每个开发者的代码仓库都包含了所有变更历史。

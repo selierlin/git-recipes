@@ -1,8 +1,5 @@
 # Git 图解
 
-> BY 童仲毅（[geeeeeeeeek@github](https://github.com/geeeeeeeeek/git-recipes/)）
->
-> 这是一篇在[原文](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)基础上演绎的文章。原作者 [Mark Lodato](lodatom@gmail.com)，译者 [wych](ellrywych@gmail.com)。原文采用[创用 CC 姓名标示-非商业性-相同方式分享 3.0 美国授权条款](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)授权。
 
 此页图解 git 中的最常用命令。如果你稍微理解 git 的工作原理，这篇文章能够让你理解的更透彻。
 
